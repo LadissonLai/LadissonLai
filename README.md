@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Qiangqiang Lai (or Ladisson)
 
-<!--
-**LadissonLai/LadissonLai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a researcher in the area of robotics. It would be a pleasure to work with you on your robotics projects.
 
-Here are some ideas to get you started:
+I have worked on projects related to robot navigation system, motion planning and autonomous driving simulation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Looking for an exciting opportunity. (Robotics or Motion Planning)
+
+**Skills**: **C++**, **Python**, **ROS**, **Docker**, and more.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LadissonLai)](https://github.com/anuraghazra/github-readme-stats)
+
+How to reach me: [ladisson](mailto:sealds653@gmail.com).
