@@ -4,7 +4,7 @@ I am a researcher in the area of robotics. It would be a pleasure to work with y
 
 I have worked on projects related to robot navigation system, motion planning and autonomous driving simulation.
 
-Looking for an exciting opportunity. (Robotics or Motion Planning)
+Looking for an exciting opportunity. (Robotics or Navigation System or Motion Planning)
 
 **Skills**: **C++**, **Python**, **ROS**, **Docker**, and more.
 
