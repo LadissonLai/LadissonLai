@@ -11,4 +11,6 @@ Looking for an exciting opportunity. (Robotics or Navigation System or Motion Pl
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LadissonLai)](https://github.com/anuraghazra/github-readme-stats)
 -->
+<!--
 How to reach me: [Ladisson](mailto:sealds653@gmail.com).
+-->
