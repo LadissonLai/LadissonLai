@@ -10,4 +10,4 @@ Looking for an exciting opportunity. (Robotics or Motion Planning)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LadissonLai)](https://github.com/anuraghazra/github-readme-stats)
 
-How to reach me: [ladisson](mailto:sealds653@gmail.com).
+How to reach me: [Ladisson](mailto:sealds653@gmail.com).
